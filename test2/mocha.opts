@@ -1,0 +1,8 @@
+###
+### mocha.opts
+###
+
+--ui bdd
+--globals okGlobalA,okGlobalB
+--timeout 300
+--reporter progress
