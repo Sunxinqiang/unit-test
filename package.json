@@ -1,0 +1,31 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "unit-test program",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunxinqiang/unit-test.git"
+  },
+  "keywords": [
+    "unit",
+    "test",
+    "mocha"
+  ],
+  "author": "Sunxinqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunxinqiang/unit-test/issues"
+  },
+  "homepage": "https://github.com/Sunxinqiang/unit-test#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
