@@ -6,6 +6,8 @@ require('chai/register-should');  // Using Should style
 // import 'chai/register-expect';  // Using Expect style
 // import 'chai/register-should';  // Using Should style
 var assert = require('assert');
+// var growl = require('growl')
+// growl('You have mail!')
 
 setTimeout(function() {
   // do some setup

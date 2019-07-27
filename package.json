@@ -24,8 +24,12 @@
     "url": "https://github.com/Sunxinqiang/unit-test/issues"
   },
   "homepage": "https://github.com/Sunxinqiang/unit-test#readme",
-  "dependencies": {},
+  "dependencies": {
+    "growl": "^1.10.5"
+  },
   "devDependencies": {
-    "chai": "^4.2.0"
+    "chai": "^4.2.0",
+    "nyc": "^14.1.1",
+    "should": "^13.2.3"
   }
 }
